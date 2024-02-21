@@ -35,5 +35,5 @@ You can click the Preview link to take a look at your changes.
 - 
 
 ## Contact
-- Twitter:https://twitter.com/subeerlinux
-- LinkedIn:https://so.linkedin.com/in/subeir
+- Twitter:  https://twitter.com/subeerlinux
+- LinkedIn: https://so.linkedin.com/in/subeir
